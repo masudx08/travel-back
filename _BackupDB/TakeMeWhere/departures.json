@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "622929d23d9181b55b399c75"
+  },
+  "cityName": "Sydney",
+  "countryName": "Australia"
+},{
+  "_id": {
+    "$oid": "62292a3f3d9181b55b399c76"
+  },
+  "cityName": "Melbourney",
+  "countryName": "Australia"
+},{
+  "_id": {
+    "$oid": "62292a593d9181b55b399c77"
+  },
+  "cityName": "Brisbane",
+  "countryName": "Australia"
+},{
+  "_id": {
+    "$oid": "62292a683d9181b55b399c78"
+  },
+  "cityName": "Perth",
+  "countryName": "Australia"
+},{
+  "_id": {
+    "$oid": "62292a783d9181b55b399c79"
+  },
+  "cityName": "Adelaide",
+  "countryName": "Australia"
+},{
+  "_id": {
+    "$oid": "62292a8b3d9181b55b399c7a"
+  },
+  "cityName": "Gold Coast",
+  "countryName": "Australia"
+},{
+  "_id": {
+    "$oid": "62292a9f3d9181b55b399c7b"
+  },
+  "cityName": "Canberra",
+  "countryName": "Australia"
+},{
+  "_id": {
+    "$oid": "62292aac3d9181b55b399c7c"
+  },
+  "cityName": "Hobart",
+  "countryName": "Australia"
+},{
+  "_id": {
+    "$oid": "62292ab63d9181b55b399c7d"
+  },
+  "cityName": "Darwin",
+  "countryName": "Australia"
+}]

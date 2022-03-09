@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6228aacb35d1aa6bae9e8945"
+  },
+  "cityName": "Sydney",
+  "country": "Australia",
+  "flightLink": "https://flight.com",
+  "hotelLink": "https://hotel.com",
+  "introduction": "lorem ipsum dolor set",
+  "popularity": "99"
+}]
