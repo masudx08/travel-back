@@ -22,7 +22,9 @@ const citySchema = new mongoose.Schema({
   hotelLink: String,
   packageLink: String,
   introduction: String,
-  popularity: Number
+  popularity: Number,
+  hotelCost:Number,
+  flightCost: Object
 });
 
 const flightScrema = new mongoose.Schema({

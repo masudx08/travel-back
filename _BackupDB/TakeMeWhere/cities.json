@@ -7,5 +7,193 @@
   "flightLink": "https://flight.com",
   "hotelLink": "https://hotel.com",
   "introduction": "lorem ipsum dolor set",
-  "popularity": "99"
+  "popularity": "99",
+  "img": "https://thumbs.dreamstime.com/b/palms-tropical-beach-white-sand-summer-vacation-travel-holiday-background-concept-caribbean-paradise-beach-palms-136606345.jpg",
+  "hotelCost": "100",
+  "flightCost": {
+    "Melbourney": 222,
+    "Brisbane": 323,
+    "Perth": 343,
+    "Adelaide": 839,
+    "Gold Coast": 83,
+    "Canberra": 343,
+    "Hobart": 837,
+    "Darwin": 34
+  }
+},{
+  "_id": {
+    "$oid": "6229a91d1488f007a977b940"
+  },
+  "cityName": "Melbourney",
+  "country": "Australia",
+  "flightLink": "https://flight.com",
+  "hotelLink": "https://hotel.com",
+  "introduction": "lorem ipsum dolor set",
+  "popularity": "99",
+  "img": "https://thumbs.dreamstime.com/b/palms-tropical-beach-white-sand-summer-vacation-travel-holiday-background-concept-caribbean-paradise-beach-palms-136606345.jpg",
+  "hotelCost": "100",
+  "flightCost": {
+    "Sydney": 222,
+    "Brisbane": 323,
+    "Perth": 343,
+    "Adelaide": 839,
+    "Gold Coast": 83,
+    "Canberra": 343,
+    "Hobart": 837,
+    "Darwin": 34
+  }
+},{
+  "_id": {
+    "$oid": "6229a9311488f007a977b941"
+  },
+  "cityName": "Brisbane",
+  "country": "Australia",
+  "flightLink": "https://flight.com",
+  "hotelLink": "https://hotel.com",
+  "introduction": "lorem ipsum dolor set",
+  "popularity": "99",
+  "img": "https://thumbs.dreamstime.com/b/palms-tropical-beach-white-sand-summer-vacation-travel-holiday-background-concept-caribbean-paradise-beach-palms-136606345.jpg",
+  "hotelCost": "100",
+  "flightCost": {
+    "Sydney": 222,
+    "Brisbane": 323,
+    "Perth": 343,
+    "Adelaide": 839,
+    "Gold Coast": 83,
+    "Canberra": 343,
+    "Hobart": 837,
+    "Darwin": 34
+  }
+},{
+  "_id": {
+    "$oid": "6229a9441488f007a977b942"
+  },
+  "cityName": "Perth",
+  "country": "Australia",
+  "flightLink": "https://flight.com",
+  "hotelLink": "https://hotel.com",
+  "introduction": "lorem ipsum dolor set",
+  "popularity": "99",
+  "img": "https://thumbs.dreamstime.com/b/palms-tropical-beach-white-sand-summer-vacation-travel-holiday-background-concept-caribbean-paradise-beach-palms-136606345.jpg",
+  "hotelCost": "100",
+  "flightCost": {
+    "Sydney": 222,
+    "Brisbane": 323,
+    "Perth": 343,
+    "Adelaide": 839,
+    "Gold Coast": 83,
+    "Canberra": 343,
+    "Hobart": 837,
+    "Darwin": 34
+  }
+},{
+  "_id": {
+    "$oid": "6229a9541488f007a977b943"
+  },
+  "cityName": "Adelaide",
+  "country": "Australia",
+  "flightLink": "https://flight.com",
+  "hotelLink": "https://hotel.com",
+  "introduction": "lorem ipsum dolor set",
+  "popularity": "99",
+  "img": "https://thumbs.dreamstime.com/b/palms-tropical-beach-white-sand-summer-vacation-travel-holiday-background-concept-caribbean-paradise-beach-palms-136606345.jpg",
+  "hotelCost": "100",
+  "flightCost": {
+    "Sydney": 222,
+    "Brisbane": 323,
+    "Perth": 343,
+    "Adelaide": 839,
+    "Gold Coast": 83,
+    "Canberra": 343,
+    "Hobart": 837,
+    "Darwin": 34
+  }
+},{
+  "_id": {
+    "$oid": "6229a9641488f007a977b944"
+  },
+  "cityName": "Gold Cost",
+  "country": "Australia",
+  "flightLink": "https://flight.com",
+  "hotelLink": "https://hotel.com",
+  "introduction": "lorem ipsum dolor set",
+  "popularity": "99",
+  "img": "https://thumbs.dreamstime.com/b/palms-tropical-beach-white-sand-summer-vacation-travel-holiday-background-concept-caribbean-paradise-beach-palms-136606345.jpg",
+  "hotelCost": "100",
+  "flightCost": {
+    "Sydney": 222,
+    "Brisbane": 323,
+    "Perth": 343,
+    "Adelaide": 839,
+    "Gold Coast": 83,
+    "Canberra": 343,
+    "Hobart": 837,
+    "Darwin": 34
+  }
+},{
+  "_id": {
+    "$oid": "6229a9721488f007a977b945"
+  },
+  "cityName": "Canberra",
+  "country": "Australia",
+  "flightLink": "https://flight.com",
+  "hotelLink": "https://hotel.com",
+  "introduction": "lorem ipsum dolor set",
+  "popularity": "99",
+  "img": "https://thumbs.dreamstime.com/b/palms-tropical-beach-white-sand-summer-vacation-travel-holiday-background-concept-caribbean-paradise-beach-palms-136606345.jpg",
+  "hotelCost": "100",
+  "flightCost": {
+    "Sydney": 222,
+    "Brisbane": 323,
+    "Perth": 343,
+    "Adelaide": 839,
+    "Gold Coast": 83,
+    "Canberra": 343,
+    "Hobart": 837,
+    "Darwin": 34
+  }
+},{
+  "_id": {
+    "$oid": "6229a9801488f007a977b946"
+  },
+  "cityName": "Hobart",
+  "country": "Australia",
+  "flightLink": "https://flight.com",
+  "hotelLink": "https://hotel.com",
+  "introduction": "lorem ipsum dolor set",
+  "popularity": "99",
+  "img": "https://thumbs.dreamstime.com/b/palms-tropical-beach-white-sand-summer-vacation-travel-holiday-background-concept-caribbean-paradise-beach-palms-136606345.jpg",
+  "hotelCost": "100",
+  "flightCost": {
+    "Sydney": 222,
+    "Brisbane": 323,
+    "Perth": 343,
+    "Adelaide": 839,
+    "Gold Coast": 83,
+    "Canberra": 343,
+    "Hobart": 837,
+    "Darwin": 34
+  }
+},{
+  "_id": {
+    "$oid": "6229a98c1488f007a977b947"
+  },
+  "cityName": "Darwin",
+  "country": "Australia",
+  "flightLink": "https://flight.com",
+  "hotelLink": "https://hotel.com",
+  "introduction": "lorem ipsum dolor set",
+  "popularity": "99",
+  "img": "https://thumbs.dreamstime.com/b/palms-tropical-beach-white-sand-summer-vacation-travel-holiday-background-concept-caribbean-paradise-beach-palms-136606345.jpg",
+  "hotelCost": "100",
+  "flightCost": {
+    "Sydney": 222,
+    "Brisbane": 323,
+    "Perth": 343,
+    "Adelaide": 839,
+    "Gold Coast": 83,
+    "Canberra": 343,
+    "Hobart": 837,
+    "Darwin": 34
+  }
 }]
