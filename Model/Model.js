@@ -12,7 +12,7 @@ mongoose.connect('mongodb://localhost:27017/TakeMeWhere', { useNewUrlParser: tru
 // Schema
 const departureScrema = new mongoose.Schema({
   cityName: String,
-  countryName: Number
+  countryName: String
 });
 
 const citySchema = new mongoose.Schema({
