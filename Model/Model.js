@@ -27,27 +27,27 @@ const citySchema = new mongoose.Schema({
   flightCost: Object
 });
 
-const flightScrema = new mongoose.Schema({
-  departureCity: String,
-  destinationCity: String,
-  price: Number
-});
+// const flightScrema = new mongoose.Schema({
+//   departureCity: String,
+//   destinationCity: String,
+//   price: Number
+// });
 
-const hotelSchema = new mongoose.Schema({
-  destinationCity: String,
-  price: Number
-});
+// const hotelSchema = new mongoose.Schema({
+//   destinationCity: String,
+//   price: Number
+// });
 
 
 // Model
 const departureModel = mongoose.model('Departure', departureScrema);
 const cityModel = mongoose.model('City', citySchema);
-const flightModel = mongoose.model('Flight', flightScrema);
-const hotelModel = mongoose.model('Hotel', hotelSchema);
+// const flightModel = mongoose.model('Flight', flightScrema);
+// const hotelModel = mongoose.model('Hotel', hotelSchema);
 
 module.exports = {
     departureModel,
     cityModel,
-    flightModel,
-    hotelModel
+    // flightModel,
+    // hotelModel
 }

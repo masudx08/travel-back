@@ -15,16 +15,16 @@ homeRouter.get("/cities",(req, res, next)=>{
     res.send(docs)
   })
 })
-homeRouter.get("/flights",(req, res, next)=>{
-  flightModel.find((err, docs)=>{
-    res.send(docs)
-  })
-})
-homeRouter.get("/hotels",(req, res, next)=>{
-  hotelModel.find((err, docs)=>{
-    res.send(docs)
-  })
-})
+// homeRouter.get("/flights",(req, res, next)=>{
+//   flightModel.find((err, docs)=>{
+//     res.send(docs)
+//   })
+// })
+// homeRouter.get("/hotels",(req, res, next)=>{
+//   hotelModel.find((err, docs)=>{
+//     res.send(docs)
+//   })
+// })
 
 module.exports = homeRouter
 
